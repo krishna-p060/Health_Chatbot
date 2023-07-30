@@ -5,6 +5,12 @@
   text-align: center;
 }
 
+.header{
+  text-align: center;
+  font-size: 25px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
